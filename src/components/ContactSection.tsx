@@ -42,6 +42,11 @@ const countries = [
   "Singapore",
   "Turkey",
   "Thailand",
+  "Ecuador",
+  "China",
+  "Vietnam",
+  "Indonesia",
+  "Singapore",
 ];
 
 const ContactSection = () => {

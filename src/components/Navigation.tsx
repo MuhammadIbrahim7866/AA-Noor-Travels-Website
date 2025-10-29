@@ -32,7 +32,7 @@ const Navigation = () => {
           <div className="flex items-center gap-3">
             <div className="flex items-center gap-2">
               {/* <Plane className="w-6 h-6 text-primary" /> */}
-              <img src="./logo/AA Noor Travels logo transparent favicon.png " width="50px"></img>
+              <img src="/logo.png" width="50px"></img>
               <div>
                 <h1 className="text-xl font-bold text-primary">
                   AA NOOR TRAVELS

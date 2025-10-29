@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="flex items-center justify-center mb-8">
           <div className="h-px w-32 bg-gradient-to-r from-transparent to-white/30" />
           {/* <Plane className="w-6 h-6 mx-4" /> */}
-          <img src="logo/AA Noor Travels logo transparent favicon.png" width="50px"></img>
+          <img src="/logo.png" width="50px"></img>
           <div className="h-px w-32 bg-gradient-to-l from-transparent to-white/30" />
         </div>
 
